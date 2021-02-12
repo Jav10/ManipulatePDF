@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="aurora.ico">icons/aurora.ico</file>
+    <file alias="information.png">icons/information_large.png</file>
+</qresource>
+</RCC>
